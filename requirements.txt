@@ -1,0 +1,10 @@
+# Python 3.11
+
+numpy ~= 1.26
+matplotlib ~= 3.8
+pandas ~= 1.5
+seaborn ~= 0.13
+folktables == 0.0.12
+scikit-learn ~= 1.4
+scipy ~= 1.13
+sympy ~= 1.12
