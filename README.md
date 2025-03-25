@@ -1,6 +1,22 @@
 # Objective Fairness Index (OFI)
 
-Here, we present empirical results and code to verify our theoretical results (example confusion matrices and 
+Published in CIKM 2024: https://dl.acm.org/doi/pdf/10.1145/3627673.3679925
+
+## Abstract
+Leveraging current legal standards, we define bias through the lens
+of marginal benefits and objective testing with the novel metric
+“Objective Fairness Index". This index combines the contextual nu-
+ances of objective testing with metric stability, providing a legally
+consistent and reliable measure. Utilizing the Objective Fairness
+Index, we provide fresh insights into sensitive machine learning
+applications, such as COMPAS (recidivism prediction), highlighting
+the metric’s practical and theoretical significance. The Objective
+Fairness Index allows one to differentiate between discriminatory
+tests and systemic disparities.
+
+## Purpose
+
+In this repository, we present empirical results and code to verify our theoretical results (example confusion matrices and 
 the standard deviation of marginal benefit).
 
 ## To Run
