@@ -13,7 +13,7 @@ the metric’s practical and theoretical significance. The Objective
 Fairness Index allows one to differentiate between discriminatory
 tests and systemic disparities.
 
-## Purpose
+## Repository Purpose
 
 In this repository, we present empirical results and code to verify our theoretical results (example confusion matrices and 
 the standard deviation of marginal benefit).
